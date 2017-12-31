@@ -1,1 +1,2 @@
-# Site
+# Synko Developers
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b19a839ae047424c97bc4274a7c619fd)](https://www.codacy.com/app/Synko/Site?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SynkoDevelopers/Site&amp;utm_campaign=Badge_Grade)
