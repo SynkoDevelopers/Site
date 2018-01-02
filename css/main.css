@@ -40,3 +40,7 @@
 #gc .card-content {
     height: 10rem;
 }
+
+fixed-action-btn {
+    display: none;
+}
