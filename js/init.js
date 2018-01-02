@@ -1,4 +1,4 @@
-(function($) {
+$(function(){
 	$(function() {
 
 		$(".button-collapse").sideNav();
