@@ -1,5 +1,6 @@
 $(function(){
-    
+    $(".fixed-action-btn").hide();
+
     $(window).scroll(function(){
         if ($(this).scrollTop() > 632) {
             $(".fixed-action-btn").fadeIn();
